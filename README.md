@@ -41,10 +41,10 @@ Status code: 201
   * name: STRING
   * phone: STRING
 
-*JSON output:
-  *id: STRING, unique
-  *name: STRING
-  *phone: STRING
+* JSON output:
+  * id: STRING, unique
+  * name: STRING
+  * phone: STRING
 
 ```JS
 {
